@@ -7,6 +7,7 @@ const NavBar = () => {
         <div className="flex justify-around py-2">
             <div>
                 <Link to="/">App name</Link>
+                
             </div>
             <div className="flex justify-around px-5">
                 <div>
